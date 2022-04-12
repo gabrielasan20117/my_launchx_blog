@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Gabriela Sanchez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://gabrielasan20117.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielasan20117.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje de la semana 1</title>
+      <link>https://gabrielasan20117.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielasan20117.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hola! En mi primera semana en la misión de Backend de Launch-X de Innovacción Virtual 😚 aprendi sobre:
+📑 Como crear mi propio blog con herramientas de GitHub 📑 Comprender codigo creado en Javascript y realizar un ejercicio 📑 Como usar Git &amp;amp; GitHub para el control de versiones</description>
+    </item>
+    
     <item>
       <title> La cultura en el desarrollo de software.</title>
       <link>https://gabrielasan20117.github.io/my_launchx_blog/posts/intro/</link>

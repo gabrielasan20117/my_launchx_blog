@@ -3,12 +3,12 @@
     {
       "name": "instagram",
       "url": "https://www.instagram.com/gabriela23/",
-      "image": "images/social/twitter.svg"
+      "image": "images/social/icons8-instagram-150.png"
     },
     {
       "name": "github",
       "url": "https://github.com/gabrielasan20117",
-      "image": "images/social/icons8-instagram-150.png"
+      "image": "images/social/github.png"
     }
   ]
 }

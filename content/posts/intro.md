@@ -7,7 +7,10 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 Hola! 
 Para mi la cultura en el desarrollo de software es:
 
-✏ Etica
+✏ Etica 
+
 ✏ Resposabilidad
-✏ Comunicación 
+
+✏ Comunicación
+
 ✏ Honestidad

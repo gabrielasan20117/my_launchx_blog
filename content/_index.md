@@ -7,4 +7,11 @@ Hola ✌️  soy la explorer **Gabriela Sánchez** y este es mi blog personal do
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
+Mis espectativas para este programa son:
+
+✔ Tener un mayor conocimiento en JavaScript 
+✔ Mejorar mis habilidades de programación
+✔ Conocer y aprender nuevos lenguajes de programación 
+✔ Mejorar la forma en como desarrollo proyectos
+
 🚀

@@ -1,6 +1,6 @@
 ---
 title: "Mi ruta de aprendizaje de la semana 1"
-date: 2022-03-01
+date: 2022-04-24
 description: 'Te voy a contar el resumen de la semana 1'
 ---
 Hola! 

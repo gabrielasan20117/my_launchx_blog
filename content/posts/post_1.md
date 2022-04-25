@@ -8,5 +8,7 @@ Hola!
 En mi primera semana en la misión de Backend de Launch-X de Innovacción Virtual 😚 aprendi sobre: 
 
 📑 Como crear mi propio blog con herramientas de GitHub
+
 📑 Comprender codigo creado en Javascript y realizar un ejercicio 
+
 📑 Como usar Git & GitHub para el control de versiones 

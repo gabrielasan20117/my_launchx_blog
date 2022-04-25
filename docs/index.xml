@@ -6,7 +6,19 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Gabriela Sanchez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielasan20117.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielasan20117.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje de la semana 1</title>
+      <link>https://gabrielasan20117.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielasan20117.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>Hola! En mi primera semana aprendi:
+📑 A crear mi propio blog ⚙ con la herramienta Hugo desde GitHub.
+📑 Aumentar mis conocimientos sobre el SO (trabajo con Linux &amp;amp; Windows) y mi editor de texto (trabajo con VS Code), ayudara a mejorar mi forma de trabajo en futuros Proyectos 📂.
+📑 Conoci una forma de como ver el desglose de los proyectos 🖱 con los que trabajo en GitHub.</description>
+    </item>
+    
     <item>
       <title>Mi ruta de aprendizaje de la semana 1</title>
       <link>https://gabrielasan20117.github.io/my_launchx_blog/posts/post_1/</link>
@@ -17,18 +29,6 @@
 📑 Como crear mi propio blog con herramientas de GitHub
 📑 Comprender codigo creado en Javascript y realizar un ejercicio
 📑 Como usar Git &amp;amp; GitHub para el control de versiones</description>
-    </item>
-    
-    <item>
-      <title>Mi ruta de aprendizaje de la semana 1</title>
-      <link>https://gabrielasan20117.github.io/my_launchx_blog/posts/post_2/</link>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielasan20117.github.io/my_launchx_blog/posts/post_2/</guid>
-      <description>Hola! En mi primera semana aprendi:
-📑 A crear mi propio blog ⚙ con la herramienta Hugo desde GitHub.
-📑 Aumentar mis conocimientos sobre el SO (trabajo con Linux &amp;amp; Windows) y mi editor de texto (trabajo con VS Code), ayudara a mejorar mi forma de trabajo en futuros Proyectos 📂.
-📑 Conoci una forma de como ver el desglose de los proyectos 🖱 con los que trabajo en GitHub.</description>
     </item>
     
     <item>
